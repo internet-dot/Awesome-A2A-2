@@ -86,6 +86,7 @@ No, A2A (Agent2Agent Protocol) and MCP (Model Context Protocol) serve different 
 * [Official A2A llms.txt](https://raw.githubusercontent.com/google/A2A/refs/heads/main/llms.txt)
 * [JSON-RPC 2.0](https://www.jsonrpc.org/specification)
 
+- [Hashgraph Online (HOL)](https://hol.org): Universal agentic registry on Hedera with HCS-14 UAIDs. Bridges to A2A, ERC-8004, Virtuals, x402.
 ## 🤝 Contributing
 
 We welcome contributions! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
